@@ -1,0 +1,117 @@
+BasicInfo:
+  FirstName: Hossein
+  LastName: Heyatzadeh
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +98 938 380 8566
+    - Icon: fas fa-envelope
+      Info: hheyatzadeh@gmail.com
+    - Icon: fas fa-globe
+      Info: Hossein9697.me
+    - Icon: fas fa-map-marker-alt
+      Info: Tehran, Iran
+
+Profile: From my childhood I really enjoyed working with computers and solving puzzles so I decided to become a programmer and started to learn programming language by watching courses and reading books. Even now I enjoy learning new stuff related to Computer Science and I try to keep myself up to date.
+
+Experience:
+  - Employer: Sadad Informatics Corporation
+    Place: Tehran, Iran
+    Positions:
+      - Title: Software Developer
+        Date: Jan 2020 - Present
+        Details:
+          - Sadad Informatics Corporation is owned by Meli Bank (biggest bank in Iran with millions of customers)
+          - Working on ATMs and BTMs of Meli Bank
+          - Developing an agent that uses WOSA to comunicate with device and software to provides RestAPI for third-party applications
+          - Using ISO-8583 to comunicate with main switch for making financial transaction
+          - Agile Sprints in every two weeks and daily reports
+        Badges: ['C++', 'CMake' , 'WOSA', 'ISO-8583', 'QT', 'SQLite' , 'Agile']
+  - Employer: Sepehr Group
+    Place: Tehran, Iran
+    Positions:
+      - Title: Backend Developer
+        Date: Nov 2020 - Jun 2022
+        Details:
+          - Using GnuRadio Blocks to send and recieve data from satellite
+          - Scannig for signals in a wide range of RFs
+          - Reciving and sending signals using Atos USRP B210 and USRP X310
+          - Encrypting and decrypting datas
+          - Agile Sprints in every two weeks
+        Badges: ['C++', 'Python', 'GNU Radio', 'QT' , 'CMake' , 'SQLite' , 'Agile']
+      - Title: Frontend Developer
+        Date: May 2021 - Jun 2022
+        Details:
+          - Designing charts and tables using QML to showcase the result of software
+          - Creating software UI requirements such as login forms and textfields
+          - Agile Sprints in every two weeks
+        Badges: ['QML', 'QT', 'JavaScript' , 'Agile']
+
+Education:
+  - Course: Computers and information technology
+    Place: University of Tehran
+    Date: Sep 2015 - Nov 2019
+    Details: Specialised software programming
+
+References:
+  - Name: Mohammad Kanani
+    Relation: Co-worker at Sepehr Group
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +98 938 550 5803
+    - Icon: fas fa-envelope
+      Info: Mohammadkanani95@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Tehran, Iran
+  - Name: Majid Abedini
+    Relation: Co-worker at Sadad Informatics Corporation
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +98 919 409 7324
+    - Icon: fas fa-envelope
+      Info: abedini8989@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Tehran, Iran
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - C++
+      - CMake
+      - Python
+      - PHP
+      - Javascript
+      - SQL
+  - Family: Frameworks
+    Items:
+      - QT
+      - Laravel
+      - Vue
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - Microsoft Office
+
+Languages:
+  - Name: Persian
+    Level: Native
+  - Name: English
+    Level: C1
+  - Name: Arabic
+    Level: A2
+
+Diplomas:
+  - Mathematic student in Shohada School (2011)
+
+Interests:
+  - Video Games
+  - Movies
+  - Musics
+  - Learning
+  - Teaching
+  - Languages
